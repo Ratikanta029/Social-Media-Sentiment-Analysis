@@ -101,13 +101,13 @@ Add campaign ROI metrics (click-through, conversions) for deeper insights.
 # 12. 📷 Sample_Work
 
 Dashboard 1 – Sentiment by Platform
-![Dashboard 1](C:\Users\rk_sandy\Desktop\Data_Analyst_projects\Social-Media-Analysis\DB-1)
+![Dashboard 1](C:\Users\rk_sandy\Desktop\Data_Analyst_projects\Social-Media-Analysis\DB-1.png)
 
 Dashboard 2 – Sentiment by Location
-![Dashboard 2](C:\Users\rk_sandy\Desktop\Data_Analyst_projects\Social-Media-Analysis\DB-2)
+![Dashboard 2](C:\Users\rk_sandy\Desktop\Data_Analyst_projects\Social-Media-Analysis\DB-2.png)
 
 Dashboard 3 – Engagement Trends
-![Dashboard 3](C:\Users\rk_sandy\Desktop\Data_Analyst_projects\Social-Media-Analysis\DB-3)
+![Dashboard 3](C:\Users\rk_sandy\Desktop\Data_Analyst_projects\Social-Media-Analysis\DB-3.png)
 
 Dashboard 4 – Follower vs Sentiment
-![Dashboard 4](C:\Users\rk_sandy\Desktop\Data_Analyst_projects\Social-Media-Analysis\DB-4)
+![Dashboard 4](C:\Users\rk_sandy\Desktop\Data_Analyst_projects\Social-Media-Analysis\DB-4.png)
